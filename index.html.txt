@@ -1,67 +1,17 @@
 <!DOCTYPE html>
+
 <html>
 <head>
 <title>Padmavati Creation</title>
-
-<style>
-body{
-background:black;
-color:gold;
-font-family:Arial;
-text-align:center;
-margin:0;
-padding:0;
-}
-
-h1{
-margin-top:30px;
-font-size:45px;
-}
-
-p{
-font-size:22px;
-}
-
-img{
-width:300px;
-margin:20px;
-border-radius:15px;
-box-shadow:0px 0px 10px gold;
-}
-
-a{
-background:gold;
-color:black;
-padding:12px 25px;
-text-decoration:none;
-border-radius:10px;
-font-weight:bold;
-font-size:20px;
-}
-
-h3{
-margin-top:30px;
-}
-</style>
 </head>
 
-<body>
+<body style="background:black;color:gold;text-align:center;font-family:Arial;">
 
 <h1>Padmavati Creation</h1>
 
-<p>Luxury Jewellery Collection</p>
+<h2>Luxury Jewellery Collection</h2>
 
-<img src="ChatGPT Image Jun 12, 2026, 04_14_46 PM.png">
-
-<img src="WhatsApp Image 2026-06-12 at 5.00.44 PM.jpeg">
-
-<br><br>
-
-<a href="https://wa.me/919890511808">
-WhatsApp Now
-</a>
-
-<h3>Contact : 9890511808</h3>
+<p>Contact: 9890511808</p>
 
 </body>
 </html>
