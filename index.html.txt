@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Padmavati Creation</title>
+<style>
+body{
+background:black;
+color:gold;
+font-family:Arial;
+text-align:center;
+}
+img{
+width:300px;
+margin:20px;
+border-radius:15px;
+}
+a{
+background:gold;
+color:black;
+padding:12px 20px;
+text-decoration:none;
+border-radius:10px;
+font-weight:bold;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Padmavati Creation</h1>
+
+<p>Luxury Jewellery Collection</p>
+
+<img src="ChatGPT Image Jun 12, 2026, 04_14_46 PM.png">
+
+<img src="WhatsApp Image 2026-06-12 at 5.00.44 PM.jpeg">
+
+<br><br>
+
+<a href="https://wa.me/919890511808">
+WhatsApp Now
+</a>
+
+<h3>Contact : 9890511808</h3>
+
+</body>
+</html>
